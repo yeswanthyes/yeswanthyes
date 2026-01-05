@@ -26,7 +26,7 @@
 <div style="text-align: left">
     <p align="left">🌱 I’m currently learning <strong>Java Script and React JS</strong></p>
     <p align="left">💬 Ask me about <strong>Machine Learning, Python, Deep Learning</strong></p>
-    <p align="left">📫 How to reach me: <strong>tharunkumarvmt@gmail.com</strong></p>
+    <p align="left">📫 How to reach me: <strong>yesyeswanth232@gmail.com</strong></p>
     <p align="left">⚡ Fun fact: <strong>I think I fell in love with problems</strong></p>
 </div>
 
