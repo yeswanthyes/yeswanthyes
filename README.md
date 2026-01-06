@@ -195,7 +195,6 @@
   <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
 </p>
 
-<h6 align="center">Made with ❤️ by Me</h6>
 
 </details>
 
