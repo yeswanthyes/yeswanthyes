@@ -1,203 +1,81 @@
-<div align="center">
-
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>Open profile</summary>
-  
-<!--horizontal divider(gradiant)-->
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-<div align="center">
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<br />
-
-<p align="center"><img src="animation.gif" width="35%"></p>
+# 👋 Hello World, I'm Yeswanth S!
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=4000&color=%2338C2FF&size=40&height=200&width=800&lines=Heyyy!+I'm+Yeswanth+%3C3;I'm+an+Undergraduate+in+Computer+Science;I'm+a+Full+Stack+Developer;Welcome+to+my+profile+!">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxMTZpNThjN3J0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6v3XqX2tEXC6vY2z1V/giphy.gif" width="600" alt="Luffy Header">
 </p>
-
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me
-<div style="text-align: left">
-    <p align="left">🌱 I’m currently learning <strong>Java Script and React JS</strong></p>
-    <p align="left">💬 Ask me about <strong>Machine Learning, Python, Deep Learning</strong></p>
-    <p align="left">📫 How to reach me: <strong>yesyeswanth232@gmail.com</strong></p>
-    <p align="left">⚡ Fun fact: <strong>I think I fell in love with problems</strong></p>
-</div>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-# 📬 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yeswanth-s-aa500b280/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tharun-kumar-801427259" height="40" width="52" /></a>
-<a href="https://instagram.com/tqk_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tqk_007" height="40" width="52" /></a>
-<a href="https://leetcode.com/u/yesyeswanth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tharun007tk" height="40" width="52" /></a>
+  <img src="https://img.shields.io/badge/Bounty-1,500,000,000-E62C39?style=for-the-badge&logo=onepiece&logoColor=white" alt="Bounty">
+  <img src="https://img.shields.io/badge/Role-Captain_Developer-FBC920?style=for-the-badge&logoColor=black" alt="Role">
 </p>
 
+## 🏴‍☠️ Captain's Log (About Me)
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
+I'm a **Full Stack Developer** on a journey to find the "One Piece" of elegant code. I build scalable web applications, robust APIs, and intelligent systems. I thrive on turning complex problems into elegant, user-centric solutions.
 
-<br />
+- 🍖 **Current Quest**: Mastering Generative AI and Agents (LangChain, LangGraph).
+- ⛵ **Sailing From**: Erode Sengunthar Engineering College (Expected May 2026).
+- 🗺️ **Motto**: "I'm gonna be the King of Code!"
 
-# 🌐 Technologies I Know
+---
 
-<div align="center">
-<br />
-  
-<a  margin="10" href="https://www.python.org" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/> </a>
-<a  margin="10" href="https://pandas.pydata.org/" target="_blank"><img margin="10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas"/></a>
-<a  margin="10" href="https://scikit-learn.org/" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"/> </a>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="38" width="36" alt="pytorch logo" />
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="38" width="36" alt="tensorflow logo" />
+## 🧭 The Grand Line (Arsenal & Skills)
 
-<br />  
+### ⚔️ Frontend Combat
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="38" alt="c logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="40" width="52" alt="tailwindcss logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="40" width="52" alt="nextjs logo"  />
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" height="38" width="36" alt="svelte logo" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo" />
-<a href= https://github.com/donPabloNow?tab=repositories&q=&type=&language=blender&sort= > <img height="40" width="52" src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
+### ⚙️ Backend & Engine
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 
-<br />
-<br />  
+### 🤖 AI & Secret Arts
+![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square) 
+![LangChain](https://img.shields.io/badge/🦜%20LangChain-121212?style=flat-square) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" height="40" width="52" alt="express logo"  />
+---
 
-<br />
-<br />
+## ⚓ Anchored Projects
 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" width="38" alt="flutter logo" />
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="40" width="38" alt="kotlin logo" />
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40" width="38" alt="dart logo" />
+| Project | Description | Link |
+| :--- | :--- | :--- |
+| **Job Portal** | Connects job seekers with employers featuring advanced filters. | [View Project](https://github.com/yeswanthyes) |
+| **Billing App** | Efficient invoicing and billing tracker with analytics. | [View Project](https://github.com/yeswanthyes) |
+| **Cert-Verify** | Secure platform for validating and verifying authentic certificates. | [View Project](https://github.com/yeswanthyes) |
+| **AC Engineers** | Business website for HVAC services and booking. | [View Project](https://github.com/yeswanthyes) |
 
-<br />
-<br />
+---
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="44" width="40" alt="docker logo" />
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="44" width="40" alt="kubernetes logo" />
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="44" width="40" alt="bash logo" />
+## 🏆 Bounty & Stats (GitHub Stats)
 
-
-<br />
-<br />
-
-<img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" height="38" width="36" alt="invision" />
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="38" width="36" alt="framer" />
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="38" width="36" alt="illustrator" />
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="38" width="36" alt="unity logo" />
-
-<br />
-<br />  
-  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-<img src="https://jwt.io/img/icon.svg" height="40" width="52" alt="jwt logo"  />
-<img height="40" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
-</div>
-<br />
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-# 🚀 My Leetcode Dashboard
-
-| 🏆 **Achievements** | 📊 **Stats**          | 🧩 **Top Skills**       |
-|---------------------|-----------------------|-------------------------|
-| ![Badge](https://img.shields.io/badge/Problem_Solving-Gold-brightgreen?style=for-the-badge&logo=hackerrank)  | **Problems Solved**: N/A | ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)   |
-
-<div align="center">
-  
-  [![Leetcode](https://leetcode.com/u/yesyeswanth/)
-
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-# 📈 GitHub Stats
-
-</div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tharun007-TK&theme=dark-minimalist)](https://git.io/streak-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-TK&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun007-TK&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=Tharun007-TK&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun007-TK&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; My Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Tharunpp)](https://github.com/Tharun007-webdesigner/Tharunpp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Text_Summariser_using_nltk )](https://github.com/Tharun007-webdesigner/Text_Summariser_using_nltk )
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=CookBot)](https://github.com/Tharun007-webdesigner/CookBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Morphological_Operations_using_OpenCV)](https://github.com/Tharun007-webdesigner/Morphological_Operations_using_OpenCV)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tharun007-TK&repo=Style_Transfer_using-Python)](https://github.com/Tharun007-webdesigner/Style_Transfer_using-Python)
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
-<br>
-
-<!-- Snake Game -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/huiishan99/huiishan99/output/github-contribution-grid-snake.svg">
-</picture> 
-</div>
-
-<!--Music Player-->
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
-<div align="center">
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthyes&show_icons=true&theme=onedark&bg_color=2E333F&title_color=E62C39&icon_color=FBC920&text_color=B9EFF8" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthyes&theme=onedark&background=2E333F&ring=E62C39&fire=FBC920&currStreakNum=B9EFF8&sideLabels=B9EFF8" alt="GitHub Streak">
 </p>
 
-<div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/hhpr98/count.svg" />  
+---
+
+## 📞 Den Den Mushi (Connect With Me)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/yeswanth-s-aa500b280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yeswanth S" height="30" width="40" /></a>
+<a href="mailto:yesyesWanth232@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yesyesWanth232@gmail.com" height="30" width="40" /></a>
 </p>
 
+---
 
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRyZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/W6X2h9VGioZvnrCPYI/giphy.gif" width="300" alt="Luffy Bye">
+  <br>
+  <i>"I'm going to be the pirate king!"</i>
+</p>
