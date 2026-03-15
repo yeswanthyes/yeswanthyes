@@ -1,81 +1,65 @@
-# 👋 Hello World, I'm Yeswanth S!
+# 👋 Hi, I'm Yeswanth S
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxMTZpNThjN3J0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6v3XqX2tEXC6vY2z1V/giphy.gif" width="600" alt="Luffy Header">
+  <img src="file:///C:/Users/Yeswanth%20S/.gemini/antigravity/brain/24568de7-922c-42a1-8653-d0000870cf0b/professional_github_banner_1773579674172.png" width="100%" alt="Professional Banner">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Bounty-1,500,000,000-E62C39?style=for-the-badge&logo=onepiece&logoColor=white" alt="Bounty">
-  <img src="https://img.shields.io/badge/Role-Captain_Developer-FBC920?style=for-the-badge&logoColor=black" alt="Role">
-</p>
+### 🚀 Full Stack Developer | AI Enthusiast | Problem Solver
 
-## 🏴‍☠️ Captain's Log (About Me)
-
-I'm a **Full Stack Developer** on a journey to find the "One Piece" of elegant code. I build scalable web applications, robust APIs, and intelligent systems. I thrive on turning complex problems into elegant, user-centric solutions.
-
-- 🍖 **Current Quest**: Mastering Generative AI and Agents (LangChain, LangGraph).
-- ⛵ **Sailing From**: Erode Sengunthar Engineering College (Expected May 2026).
-- 🗺️ **Motto**: "I'm gonna be the King of Code!"
+I am a passionate Full Stack Developer dedicated to building scalable web applications, robust APIs, and intelligent systems. I thrive on turning complex technical challenges into elegant, user-centric digital experiences.
 
 ---
 
-## 🧭 The Grand Line (Arsenal & Skills)
-
-### ⚔️ Frontend Combat
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Engine
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-### 🤖 AI & Secret Arts
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square) 
-![LangChain](https://img.shields.io/badge/🦜%20LangChain-121212?style=flat-square) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
-
----
-
-## ⚓ Anchored Projects
-
-| Project | Description | Link |
-| :--- | :--- | :--- |
-| **Job Portal** | Connects job seekers with employers featuring advanced filters. | [View Project](https://github.com/yeswanthyes) |
-| **Billing App** | Efficient invoicing and billing tracker with analytics. | [View Project](https://github.com/yeswanthyes) |
-| **Cert-Verify** | Secure platform for validating and verifying authentic certificates. | [View Project](https://github.com/yeswanthyes) |
-| **AC Engineers** | Business website for HVAC services and booking. | [View Project](https://github.com/yeswanthyes) |
-
----
-
-## 🏆 Bounty & Stats (GitHub Stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthyes&show_icons=true&theme=onedark&bg_color=2E333F&title_color=E62C39&icon_color=FBC920&text_color=B9EFF8" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthyes&theme=onedark&background=2E333F&ring=E62C39&fire=FBC920&currStreakNum=B9EFF8&sideLabels=B9EFF8" alt="GitHub Streak">
-</p>
-
----
-
-## 📞 Den Den Mushi (Connect With Me)
+### 🛠️ Technical Arsenal
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yeswanth-s-aa500b280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yeswanth S" height="30" width="40" /></a>
-<a href="mailto:yesyesWanth232@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yesyesWanth232@gmail.com" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,fastapi,graphql,postgres,mongodb,docker,kubernetes,firebase,github" />
+  </a>
+</p>
+
+- **Frontend Combat**: Crafting seamless interfaces with React and Tailwind CSS.
+- **Backend Architecture**: Engineering robust systems with Node.js, Express, and FastAPI.
+- **Cloud & DevOps**: Deploying and scaling with Docker, Kubernetes, and AWS.
+- **AI & Intelligent Systems**: Building the future with LangChain, LangGraph, and Generative AI.
+
+---
+
+### 📁 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Job Portal](https://github.com/yeswanthyes)** | A comprehensive platform connecting talent with opportunities. | React, Node.js, MongoDB |
+| **[Billing System](https://github.com/yeswanthyes)** | Precision invoicing and financial analytics dashboard. | JavaScript, Express, PostgreSQL |
+| **[CertiVerify](https://github.com/yeswanthyes)** | Blockchain-inspired secure certificate validation platform. | Node.js, Security Best Practices |
+| **[HVAC Solutions](https://github.com/yeswanthyes)** | High-performance business platform for HVAC services. | React, Tailwind, Cloud Deployment |
+
+---
+
+### 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthyes&show_icons=true&theme=tokyonight&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&bg_color=0F172A" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yeswanthyes&theme=tokyonight&background=0F172A&ring=3B82F6&fire=3B82F6&currStreakNum=3B82F6&sideLabels=94A3B8&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
 
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yeswanth-s-aa500b280/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yesyesWanth232@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/yeswanthyes" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnRyZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0ZzZ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/W6X2h9VGioZvnrCPYI/giphy.gif" width="300" alt="Luffy Bye">
-  <br>
-  <i>"I'm going to be the pirate king!"</i>
+  <i>"Code is poetry in motion."</i>
 </p>
