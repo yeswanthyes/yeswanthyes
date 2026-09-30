@@ -16,7 +16,7 @@
 <!-- ANIMATED TYPING SVG -->
 <p align="center">
   <a href="https://github.com/yeswanthyes">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=🎮+Game+Developer+%26+Interactive+Experience+Creator;💻+Full+Stack+Engineer+(React%2C+Node.js%2C+FastAPI);🧠+AI+%26+Intelligent+Systems+Innovator;🕹️+Crafting+3D+Worlds%2C+Shaders+%26+Game+Mechanics;⚡+Turning+Complex+Logic+into+Smooth+User+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=50&lines=%F0%9F%8E%AE+Game+Developer+%26+Interactive+Experience+Creator%3B%F0%9F%92%BB+Full+Stack+Engineer+%28React%2C+Node.js%2C+FastAPI%29%3B%F0%9F%A7%A0+AI+%26+Intelligent+Systems+Innovator%3B%F0%9F%95%B9%EF%B8%8F+Crafting+3D+Worlds%2C+Shaders+%26+Game+Mechanics%3B%E2%9A%A1+Turning+Complex+Logic+into+Smooth+User+Experiences" alt="Typing SVG" />
   </a>
 </p>
 
@@ -129,7 +129,7 @@ Character_Profile:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yeswanthyes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://trophy.ryglcloud.net/?username=yeswanthyes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -151,9 +151,9 @@ Character_Profile:
 ### 📊 GitHub Command Center
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswanthyes&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&bg_color=0F172A" alt="Yeswanth's GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yeswanthyes&show_icons=true&theme=tokyonight&hide_border=true&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8&bg_color=0F172A" alt="Yeswanth's GitHub Stats" width="48%" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeswanthyes&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yeswanthyes&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8&text_color=94A3B8&bg_color=0F172A" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
